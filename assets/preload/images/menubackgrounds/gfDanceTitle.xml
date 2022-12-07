@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="derp.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="derpicly instance 10000" x="0" y="0" width="427" height="508" frameX="-49" frameY="0" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10001" x="439" y="0" width="427" height="508" frameX="-49" frameY="0" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10002" x="878" y="0" width="427" height="508" frameX="-49" frameY="0" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10003" x="1317" y="0" width="428" height="507" frameX="-48" frameY="-1" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10004" x="1757" y="0" width="428" height="503" frameX="-48" frameY="-5" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10005" x="2197" y="0" width="432" height="492" frameX="-46" frameY="-16" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10006" x="2641" y="0" width="440" height="468" frameX="-42" frameY="-40" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10007" x="3093" y="0" width="455" height="421" frameX="-35" frameY="-87" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10008" x="3560" y="0" width="481" height="338" frameX="-22" frameY="-170" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10009" x="0" y="520" width="524" height="203" frameX="0" frameY="-305" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10010" x="536" y="520" width="482" height="335" frameX="-21" frameY="-173" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10011" x="1030" y="520" width="466" height="385" frameX="-29" frameY="-123" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10012" x="1508" y="520" width="454" height="420" frameX="-35" frameY="-88" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10013" x="1974" y="520" width="446" height="447" frameX="-39" frameY="-61" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10014" x="2432" y="520" width="440" height="467" frameX="-42" frameY="-41" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10015" x="2884" y="520" width="435" height="482" frameX="-44" frameY="-26" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10016" x="3331" y="520" width="432" height="494" frameX="-46" frameY="-14" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10017" x="0" y="1026" width="428" height="502" frameX="-48" frameY="-6" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10018" x="440" y="1026" width="428" height="506" frameX="-48" frameY="-2" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10019" x="0" y="0" width="427" height="508" frameX="-49" frameY="0" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10020" x="0" y="0" width="427" height="508" frameX="-49" frameY="0" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10021" x="0" y="0" width="427" height="508" frameX="-49" frameY="0" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10022" x="0" y="0" width="427" height="508" frameX="-49" frameY="0" frameWidth="524" frameHeight="508"/>
+	<SubTexture name="derpicly instance 10023" x="0" y="0" width="427" height="508" frameX="-49" frameY="0" frameWidth="524" frameHeight="508"/>
+</TextureAtlas>
